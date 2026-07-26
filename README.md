@@ -186,8 +186,8 @@ goal      : Software Engineer @ Product-Based Company
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiteshi1601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hiteshi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshi1601&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hiteshi1601&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hiteshi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hiteshi1601&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
   <br/><br/>
 
