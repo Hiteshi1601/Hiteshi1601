@@ -197,15 +197,16 @@ goal      : Software Engineer @ Product-Based Company
 
 ---
 
-<!-- 11. CONTRIBUTION GRAPH & 12. CONTRIBUTION SNAKE ANIMATION -->
-## 🐍 Contribution Activity Graph
+<!-- 11. CONTRIBUTION GRAPH & 12. ACTIVITY METRICS -->
+## 📈 Contribution Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiteshi1601&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Graph" />
   
   <br/><br/>
   
-  <img src="https://raw.githubusercontent.com/Hiteshi1601/Hiteshi1601/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiteshi1601&theme=tokyonight" width="48%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiteshi1601&theme=tokyonight" width="48%" alt="Productive Time" />
 </div>
 
 ---
