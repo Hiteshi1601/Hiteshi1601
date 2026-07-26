@@ -11,9 +11,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Computer+Vision+Enthusiast;Agentic+AI+Explorer;Machine+Learning+Developer;Open+Source+Learner" alt="Typing SVG" />
   </a>
 
-  <!-- VISITOR COUNTER & BADGES -->
+  <!-- KEY BADGES & DOMAIN FOCUS -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Hiteshi1601&label=SYSTEM%20VISITS&color=00f2fe&style=for-the-badge" alt="Visitor Counter" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack%20Development-00f2fe?style=for-the-badge&logo=python&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Domain-Agentic%20AI%20%26%20ML-e100ff?style=for-the-badge&logo=pytorch&logoColor=white" alt="Domain" />
     <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Software-7f00ff?style=for-the-badge&logo=prometheus&logoColor=white" alt="Status" />
   </p>
 </div>
