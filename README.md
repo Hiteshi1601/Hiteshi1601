@@ -3,8 +3,8 @@
 <!-- ========================================================================= -->
 
 <div align="center">
-  <!-- 1. CUSTOM AI BANNER (NATIVE REPO SVG) -->
-  <img src="./assets/banner.svg" width="100%" alt="Hiteshi Mudham AI Header Banner"/>
+  <!-- 1. CUSTOM AI BANNER (WAVING MAROON GRADIENT) -->
+  <img src="./assets/header_banner.svg" width="100%" alt="Hiteshi Mudham Header Banner"/>
 
   <!-- 2. ANIMATED TYPING INTRODUCTION -->
   <a href="https://git.io/typing-svg">

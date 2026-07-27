@@ -1,0 +1,38 @@
+<svg fill="none" viewBox="0 0 1200 220" width="100%" height="220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .banner-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 44px;
+      fill: #ffffff;
+      letter-spacing: 2px;
+    }
+    .banner-subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      fill: #ffffff;
+      letter-spacing: 1.2px;
+      opacity: 0.95;
+    }
+  </style>
+
+  <defs>
+    <!-- Purple to Crimson Maroon Gradient matching Image 2 -->
+    <linearGradient id="purple-maroon-grad-v2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a1240" />
+      <stop offset="35%" stop-color="#6e163b" />
+      <stop offset="70%" stop-color="#8c1a35" />
+      <stop offset="100%" stop-color="#a31e33" />
+    </linearGradient>
+  </defs>
+
+  <!-- Waving Banner Shape matching Image 2 -->
+  <path d="M 0 0 L 1200 0 L 1200 180 C 1000 195, 800 160, 600 175 C 400 190, 200 165, 0 175 Z" fill="url(#purple-maroon-grad-v2)" />
+
+  <!-- Center Text: HITESHI MUDHAM -->
+  <text x="600" y="92" text-anchor="middle" class="banner-title">HITESHI MUDHAM</text>
+
+  <!-- Subtitle Text: Aspiring AI Engineer • Full Stack Developer • ML Explorer -->
+  <text x="600" y="138" text-anchor="middle" class="banner-subtitle">Aspiring AI Engineer • Full Stack Developer • ML Explorer</text>
+</svg>
