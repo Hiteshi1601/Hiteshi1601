@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- 1. CUSTOM AI BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,9,20&height=220&section=header&text=HITESHI%20MUDHAM&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Developer%20(2027%20Batch)%20•%20Open-Source%20LLMs%20(Qwen)%20•%20Agentic%20AI%20%26%20RAG&descSize=16&descAlignY=62&descColor=00f2fe" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,9,20&height=220&section=header&text=HITESHI%20MUDHAM&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Developer%20(2027%20Batch)%20|%20Open-Source%20LLMs%20(Qwen)%20|%20Agentic%20AI%20%26%20RAG&descSize=16&descAlignY=62&descColor=00f2fe" width="100%" alt="Header Banner"/>
 
   <!-- 2. ANIMATED TYPING INTRODUCTION -->
   <a href="https://git.io/typing-svg">
